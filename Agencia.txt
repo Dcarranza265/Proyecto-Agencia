@@ -2,8 +2,7 @@
 --Modified		24/05/2019
 --Project		Modelamiento de Datos
 --Model			Agencia de Viajes
---Company		ISIL
---Author		Miguel Angel Ucañay Quesquén,David Carranza Inga
+--Author		David Carranza Inga, Miguel Angel Ucañay Quesquén
 --Version		2.0	
 --Database		MS SQL 2017
 
